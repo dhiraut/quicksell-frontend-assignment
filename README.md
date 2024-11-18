@@ -1,7 +1,7 @@
 # Quicksell-Frontend-assignment
 
 ## 📌About Project
-This project is a Kanban board application built using ReactJS. It allows users to interact with ticket data fetched from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment). Users can group and sort tickets based on different criteria, making it a versatile tool for project management. See the project live at [Live Link](https://quicksell-frontend-shubh.netlify.app/).
+This project is a Kanban board application built using ReactJS. It allows users to interact with ticket data fetched from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment). Users can group and sort tickets based on different criteria, making it a versatile tool for project management. See the project live at [Live Link]([https://quicksell-frontend-shubh.netlify.app/](https://quicksell-dhiraj-assignment.netlify.app/)).
 
 ## Features
 
@@ -45,7 +45,7 @@ This project is a Kanban board application built using ReactJS. It allows users 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd kanban-board-app
+   cd quicksell-frontend-assignment
    ```
 
 3. **Install Dependencies:**
