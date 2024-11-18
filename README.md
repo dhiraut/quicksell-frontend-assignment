@@ -40,7 +40,6 @@ This project is a Kanban board application built using ReactJS. It allows users 
 
    ```bash
    git clone https://github.com/dhiraut/quicksell-frontend-assignment
-   ```
 
 2. **Navigate to the Project Directory:**
 
